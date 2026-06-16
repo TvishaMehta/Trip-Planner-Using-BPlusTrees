@@ -1,0 +1,13 @@
+# CLion / IntelliJ
+.idea/
+
+# Build outputs
+*.exe
+cmake-build-*/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
