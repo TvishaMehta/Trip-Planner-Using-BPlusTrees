@@ -1,0 +1,83 @@
+TRIP|1|Goa Trip
+ACTIVITY|Start|Mumbai|2026-04-01 08:00|0.00|Trip starts here
+NAVCOUNT|0
+ACTIVITY|Flight|Goa|2026-04-01 10:30|5000.00|Morning flight
+NAVCOUNT|2
+NAV|Head to airport|10.00
+NAV|Board flight|0.00
+ACTIVITY|Hotel|Baga|2026-04-01 13:00|3000.00|Check-in hotel
+NAVCOUNT|2
+NAV|Take taxi|5.00
+NAV|Reach hotel|1.00
+ACTIVITY|Tourist|Fort aguada|2026-04-02 09:00|500.00|Sightseeing
+NAVCOUNT|1
+NAV|Walk to fort|2.00
+ENDTRIP
+TRIP|2|Pune Trip
+ACTIVITY|Start|Mumbai|2026-05-10 07:00|0.00|Start journey
+NAVCOUNT|0
+ACTIVITY|Bus|Pune|2026-05-10 11:00|1500.00|Bus journey
+NAVCOUNT|2
+NAV|Board bus|2.00
+NAV|Highway drive|120.00
+ACTIVITY|Hotel|Shivajinagar|2026-05-10 13:00|2500.00|Stay in hotel
+NAVCOUNT|1
+NAV|Auto ride|3.00
+ACTIVITY|Tourist|Sinhagad fort|2026-05-11 08:00|300.00|Morning trek
+NAVCOUNT|1
+NAV|Climb fort|1.50
+ENDTRIP
+TRIP|3|Delhi Trip
+ACTIVITY|Start|Mumbai|2026-06-01 06:00|0.00|Trip begins
+NAVCOUNT|0
+ACTIVITY|Flight|Delhi|2026-06-01 09:30|6000.00|Flight to Delhi
+NAVCOUNT|2
+NAV|Go to airport|12.00
+NAV|Board flight|0.00
+ACTIVITY|Hotel|Karol bagh|2026-06-01 12:30|4000.00|Hotel stay
+NAVCOUNT|1
+NAV|Cab to hotel|8.00
+ACTIVITY|Tourist|Qutub minar|2026-06-01 15:30|200.00|Visit monument
+NAVCOUNT|1
+NAV|North|3.70
+ACTIVITY|Tourist|India gate|2026-06-02 10:00|200.00|Visit monument
+NAVCOUNT|1
+NAV|South|2.30
+ACTIVITY|Tourist|Red fort|2026-06-02 14:00|300.00|Historic visit
+NAVCOUNT|1
+NAV|Auto ride|4.00
+ENDTRIP
+TRIP|4|Manali Trip
+ACTIVITY|Start|Mumbai|2026-07-01 06:00|0.00|Trip begins
+NAVCOUNT|0
+ACTIVITY|Flight|Delhi|2026-07-01 09:30|5500.00|Flight to Delhi
+NAVCOUNT|2
+NAV|Go to airport|12.00
+NAV|Board flight|0.00
+ACTIVITY|Transport|Manali|2026-07-01 18:00|2000.00|Overnight journey
+NAVCOUNT|2
+NAV|Reach bus stand|5.00
+NAV|Highway travel|500.00
+ACTIVITY|Hotel|Old manali|2026-07-02 09:00|3500.00|Check-in
+NAVCOUNT|1
+NAV|Walk to hotel|1.20
+ACTIVITY|Tourist|Solang valley|2026-07-02 12:00|800.00|Adventure
+NAVCOUNT|1
+NAV|Cab ride|14.00
+ACTIVITY|Tourist|Hidimba temple|2026-07-02 16:00|200.00|Temple visit
+NAVCOUNT|1
+NAV|Walk uphill|0.80
+ACTIVITY|Tourist|Mall road|2026-07-02 19:00|500.00|Evening shopping
+NAVCOUNT|1
+NAV|Walk to market|0.50
+ACTIVITY|Tourist|Rohtang pass|2026-07-03 08:00|1200.00|Snow point visit
+NAVCOUNT|1
+NAV|Drive|50.00
+ACTIVITY|Transport|Delhi|2026-07-04 10:00|2000.00|Return journey
+NAVCOUNT|1
+NAV|Drive|450.00
+ACTIVITY|Flight|Mumbai|2026-07-04 18:00|5500.00|Return flight
+NAVCOUNT|2
+NAV|Go to airport|10.00
+NAV|Board flight|0.00
+ENDTRIP
